@@ -1,4 +1,4 @@
- h1 { 
+h1 { 
     margin: auto;
     text-align: left;
     color: #795300;
@@ -8,23 +8,19 @@ body {
     background-color: palevioletred;
     display: flex;
 }
- /* .prueba{ 
-    background-color: aqua;
-} */
 
-#historia {
+#nadal {
     float: left;
     margin: 5%;
-    width: 30%;
+    width: 50%;
     font-family: "Latin Modern Roman";
     font-style: italic ;
     font-size: large;
     color: #795300;
-} 
+}
 
 img { 
-    margin: 20%;
+    margin: 75%;
+    width: 125%;
+    float:right;
 } 
-
-
-
